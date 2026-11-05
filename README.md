@@ -2,7 +2,7 @@
 
 ## 1. Projekti nimi
 
-Hättasattunud metsloomade 
+Hättasattunud metsloomade juhtumilahendaja
 
 ## 2. Eesmärk
 
